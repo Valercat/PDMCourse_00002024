@@ -5,16 +5,12 @@ plugins {
 
 android {
     namespace = "com.valeria.clase2303"
-    compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
-    }
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.valeria.clase2303"
         minSdk = 24
-        targetSdk = 36
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
@@ -36,6 +32,11 @@ android {
     }
     buildFeatures {
         compose = true
+    }
+    androidResources {
+        generateLocaleConfig = true
+        // Add any new language codes (e.g., "es", "it", "de") to this list
+        localeFilters += listOf("en", "en-rGB", "fr", "ja", "b+zh+Hans+MO", "b+zh+Hant+MO", "es")
     }
 }
 

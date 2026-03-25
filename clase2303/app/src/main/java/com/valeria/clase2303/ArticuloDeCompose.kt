@@ -45,7 +45,7 @@ fun Articulo(){
             Text(
                 text = stringResource(R.string.JPC_is),
                 textAlign = TextAlign.Justify,
-                modifier = Modifier.padding(16.dp, 0.dp, 0.dp)
+                modifier = Modifier.padding(16.dp, 0.dp, 16.dp)
             )
         }
         Box() {
