@@ -12,8 +12,8 @@
     <string name="Text_inf">Muestra texto y sigue las pautas de diseño de Material Design recomendadas.</string>
     <string name="Image">Composable de imagen</string>
     <string name="Image_inf">Crea un elemento componible que diseña y dibuja un objeto de clase Painter dado.</string>
-    <string name="Row">Composable de fila (Row)</string>
+    <string name="Row">Composable de fila</string>
     <string name="Row_inf">Un elemento de diseño componible que coloca a sus hijos en una secuencia horizontal.</string>
-    <string name="Column">Composable de columna (Column)</string>
+    <string name="Column">Composable de columna</string>
     <string name="Column_inf">Un elemento de diseño componible que coloca a sus hijos en una secuencia vertical.</string>
 </resources>
