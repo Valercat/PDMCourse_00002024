@@ -1,5 +1,8 @@
 package com.valeria.clase2303
 
+import android.R.attr.background
+import android.R.id.background
+import android.graphics.Color
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -114,6 +117,31 @@ fun CuadranteCompose(){
         }
     }
 }
+
+
+//@Composable
+//fun Cuadro(titulo: String, descripcion: String, colorB: Color){
+//    Box(modifier = background(colorB).fillMaxHeight(),
+//        contentAlignment = Alignment.Center){
+//        Column(modifier = Modifier.padding(16.dp), verticalArrangement = Arrangement.Center,
+//            horizontalAlignment = Alignment.CenterHorizontally) {
+//            Box() {
+//                Text(
+//                    text = stringResource(R.string.Text),
+//                    textAlign = TextAlign.Center,
+//                    fontWeight = FontWeight.Bold,
+//                    modifier = Modifier.padding(0.dp, 0.dp, 0.dp,16.dp )
+//                )
+//            }
+//            Box() {
+//                Text(
+//                    text = stringResource(R.string.Text_inf),
+//                    textAlign = TextAlign.Center
+//                )
+//            }
+//        }
+//    }
+//}
 
 @Composable
 @Preview

@@ -4,13 +4,17 @@ plugins {
 }
 
 android {
-    namespace = "com.valeria.clase2303"
-    compileSdk = 36
+    namespace = "com.valeria.clase2503"
+    compileSdk {
+        version = release(36) {
+            minorApiLevel = 1
+        }
+    }
 
     defaultConfig {
-        applicationId = "com.valeria.clase2303"
+        applicationId = "com.valeria.clase2503"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
@@ -33,11 +37,6 @@ android {
     buildFeatures {
         compose = true
     }
-    androidResources {
-        generateLocaleConfig = true
-        // Add any new language codes (e.g., "es", "it", "de") to this list
-        localeFilters += listOf("en", "en-rGB", "fr", "ja", "b+zh+Hans+MO", "b+zh+Hant+MO", "es")
-    }
 }
 
 dependencies {
@@ -49,8 +48,7 @@ dependencies {
     implementation(libs.androidx.compose.ui.graphics)
     implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.compose.material3)
-    implementation(libs.androidx.ui)
-    implementation(libs.androidx.compose.foundation.layout)
+    implementation(libs.androidx.material3)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
