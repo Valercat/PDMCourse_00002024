@@ -5,7 +5,7 @@ import androidx.navigation3.runtime.entryProvider
 import androidx.navigation3.runtime.rememberNavBackStack
 import androidx.navigation3.ui.NavDisplay
 import com.valeria.a2204.screen.MovieFullScreen
-import com.valeria.a2204.screen.MovieListScreen
+import com.valeria.a2204.screen.MovieList.MovieListScreen
 
 @Composable
 fun MovieApp() {
