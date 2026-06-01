@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1363c033-b3b2-4c99-bf1f-fab753d17b7c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/studiobot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2204/app/src/main/java/com/valeria/a2204/data/repositories/MovieRepository/MovieApiRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2204/app/src/main/java/com/valeria/a2204/data/repositories/MovieRepository/MovieRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2204/app/src/main/java/com/valeria/a2204/screen/MovieDetail/MovieDetailViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/Data/api/KtorClient.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/Data/api/dto/JsonDTO.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/Data/api/dto/JsonPostDTO.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/Data/repositories/JsonPlaceHolderApi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/Data/repositories/JsonPlaceholderInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/Model/JsonModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/Navigation/MainNavigation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/Navigation/Routes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/Screen/JsonList/JsonListScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/Screen/JsonList/JsonListViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/java/com/valeria/proyectojsonplaceholder/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/res/drawable/ic_account_box.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/res/drawable/ic_favorite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/res/drawable/ic_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProyectoJsonPlaceHolder/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2204/app/src/main/java/com/valeria/a2204/AppScafold.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../2204/app/src/main/java/com/valeria/a2204/AppScaffold.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2204/app/src/main/java/com/valeria/a2204/MainNavigation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../2204/app/src/main/java/com/valeria/a2204/MainNavigation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2204/app/src/main/java/com/valeria/a2204/screen/MovieFullScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../2204/app/src/main/java/com/valeria/a2204/screen/MovieDetail/MovieFullScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2204/app/src/main/java/com/valeria/a2204/screen/MovieList/MovieListScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../2204/app/src/main/java/com/valeria/a2204/screen/MovieList/MovieListScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computadora" beforeDir="false" afterPath="$PROJECT_DIR$/../Computadora" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1363c033-b3b2-4c99-bf1f-fab753d17b7c" name="Changes" comment="" />
+      <created>1780345177403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780345177403</updated>
+    </task>
+    <servers />
+  </component>
+</project>

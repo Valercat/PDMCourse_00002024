@@ -1,4 +1,4 @@
-package com.valeria.a2204.screen
+package com.valeria.a2204.screen.MovieDetail
 
 //import androidx.wear.compose.material3.AppScaffold
 
